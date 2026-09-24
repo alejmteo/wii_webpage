@@ -6,12 +6,12 @@ The goal was to recreate the look and feel of the original Wii home screen while
 
 ## Features
 
-- Wii Menu-inspired interface
-- Responsive design for desktop and mobile devices
-- Interactive cards with hover animations
+- Wii Menu-inspired interface.
+- Responsive design for desktop and mobile devices.
+- Interactive cards with hover animations.
 - Direct access to my personal profiles.
-- Custom backgrounds for desktop and mobile
-- Optimized images for different screen sizes
+- Custom backgrounds for desktop and mobile.
+- Optimized images for different screen sizes.
 
 ## Technologies
 
